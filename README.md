@@ -16,7 +16,7 @@ Let's self-learning together and get better together !
 
 I'm a fan in math, so I take many math courses which CS students are not obligated to take, feel free to take the ones you like !
 
-#### Basics (2 - 3 months)
+#### Basics 
 
 ##### Calculus and Linear Algebra
 
@@ -34,7 +34,7 @@ This course is designed for freshman in MIT, I strongly recommend you take it to
 
 
 
-#### Median (3 - 4 months)
+#### Median
 
 ##### Probability theory
 
@@ -69,6 +69,7 @@ In this course, you will master julia and do some basic but interesting labs, e.
 After that, there are so many courses you can take to use julia to learn math and programming together !
 
 - [MIT18.330: Introduction to numerical analysis](https://github.com/mitmath/18330)
+  - [My repository](https://github.com/PKUFlyingPig/MIT18.330)
 
 I personally find this course a little easy, so I also take the numerical analysis course for graduate students.
 
@@ -84,6 +85,7 @@ I personally find this course a little easy, so I also take the numerical analys
 - [MIT6.441: Information Theory](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-441-information-theory-spring-2016/syllabus/)
 
 - [Standford EE364A: Convex Optimization](http://stanford.edu/class/ee364a/index.html)
+  - [My repository]()
 
 - [Standford CS255: Cryptography](http://crypto.stanford.edu/~dabo/cs255/)
 
@@ -103,7 +105,8 @@ This course will teach the stuffs which a mature programmer use every day, but y
 
 
 
-- [UCB CS61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/su20/)  [My repository](https://github.com/PKUFlyingPig/CS61A)
+- [UCB CS61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/su20/)
+  -   [My repository](https://github.com/PKUFlyingPig/CS61A)
 
 Have you heard about SICP? but that book use the language "Scheme" which is not so popular today. This course use Python to teach you the same idea! Isn't that cool ? Trust me, after this course, you will be expert in python!
 
@@ -111,6 +114,7 @@ Have you heard about SICP? but that book use the language "Scheme" which is not 
 
 - [Havard: cs50](https://cs50.harvard.edu/x/2020/syllabus/)
 - [Havard: cs50 ai](https://cs50.harvard.edu/ai/2020/projects/1/minesweeper/)
+  - [My repository](https://github.com/PKUFlyingPig/cs50_ai)
 
 CS50 is the most popular courses in Havard University, the first course you will learn C and SQL, the second course you will use python to learn some basic concepts about AI !
 
@@ -122,15 +126,17 @@ CS50 is the most popular courses in Havard University, the first course you will
 
 Now you may have quite more  experience in programming, but to the art of programming is not programming itself, but to use it to solve problems !
 
-- [UCB CS61B: data structures and algorithms](https://sp18.datastructur.es) [My repository](https://github.com/PKUFlyingPig/CS61B)
+- [UCB CS61B: data structures and algorithms](https://sp18.datastructur.es)
+  -  [My repository](https://github.com/PKUFlyingPig/CS61B)
 
 In this course you will learn Java and use it to implement many data structures and algorithms, I highly recommend you take the Spring 2018 version which you can use the Gradescope to self-grade your code, see the course website for more details !
 
 
 
-- [Princeton: Algorithms I](https://www.coursera.org/learn/algorithms-part1)  [My repository](https://github.com/PKUFlyingPig/Princeton-Algorithm)
+- [Princeton: Algorithms I](https://www.coursera.org/learn/algorithms-part1)  
 
 - [Princeton: Algorithms II](https://www.coursera.org/learn/algorithms-part2/home/welcome)
+  - [My repository](https://github.com/PKUFlyingPig/Princeton-Algorithm)
 
 These two coursera courses are so great ! Those projects are very interesting and you can sharpen your Java programming in these two courses !
 
@@ -142,16 +148,41 @@ In this course you will learn more advanced algorithms like dynamic programming,
 
 
 
+### Electronical Engineering Basics
+
+---
+
+As a CS student, it does not harm to learn some EE lessons to deepen your understandings on the hardware. I find these basic EE lessons will help you learn more advanced CS courses about computer architecture.
+
+- [UCB: EE16A](https://inst.eecs.berkeley.edu/~ee16a/su20/#schedule)
+- [UCB: EE16B](https://www.eecs16b.org/#schedule)
+
+These two lessons are the introduction courses for freshman in UC Berkeley majored in EE. You can learn the basic ideas about circuits and some data analysis methods. You can also make your hands dirty in its labs.
+
+
+
+- [MIT 6.003 : signal and systems](https://www.eecs16b.org/#schedule)
+- [UCB EE120 : signal and systems](https://inst.eecs.berkeley.edu/~ee120/fa19/)
+  - [My repository](https://github.com/PKUFlyingPig/UCB-EE120)
+
+
+
 ### Computer Architecture
 
 ---
 
 - [Nand2Tetris I](https://www.coursera.org/learn/build-a-computer/home/week/1)
 - [Nand2Tetrix II](https://www.coursera.org/learn/nand2tetris2/home/welcome)
-
-- [My repository](https://github.com/PKUFlyingPig/NandToTetris)
+  - [My repository](https://github.com/PKUFlyingPig/NandToTetris)
 
 This course got 5.0 score on coursera ! In this course, you will use logic gates to implement a computer and create a new language called Jack and write the compiler and virtual machine to run the Jack code on the computer you made! It's so cool !!
+
+
+
+- [UCB CS61C: Great Ideas in Computer Architecture](https://cs61c.org/su20/) [My repository](https://github.com/PKUFlyingPig/CS61C-summer20)
+  - [My repository]()
+
+All the labs and projects and fantastic. In this course, you will learn C programming language and RISC-V assembly language, understand how the computer run your code, write a MNIST classification neural network in RISC-V, build your own CPU to run RISC-V, and finally, you can write a naive, but quite powerful **numpy** in C to accelerate the matrix manipulation. The best architecture course I've ever taken !
 
 
 
@@ -161,5 +192,55 @@ This course is so well-known but some of its labs are hard, I take this course a
 
 
 
-- [UCB CS61C: Great Ideas in Computer Architecture](https://cs61c.org/su20/) [My repository](https://github.com/PKUFlyingPig/CS61C-summer20)
+### Machine Learning and Deep Learning
+
+---
+
+There are so many good resources on the Internet you can use to learn AI, machine learning and deep learning, below are just some courses which I prefer.
+
+#### Introduction courses
+
+- [UCB CS188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa18/index.html)
+
+I recommend this 2018 version which you can use the gradescope. This course will teach you the basic ideas in AI, such as search, CSP, MDP, RL, BNs, NN,  logistic regression and so on.
+
+- [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com)
+
+In this course you will learn the basic neural network such as CNN, RNN, GAN, VAE, and learn to use tensorflow in the labs.
+
+
+
+#### Machine Learning
+
+- [Stanford CS229: Machine Learning](http://cs229.stanford.edu/syllabus.html)
+  - [My repository](https://github.com/PKUFlyingPig/CS229)
+
+This course is taught by Andrew Ng (吴恩达). This couse is maths heavy. If you feel painful, you can take the coursera Machine Learning course which is also taught by Andrew. I finished the coursera course's labs too, they are quite interesting !
+
+- [UCB CS189: Machine Learning](https://www.eecs189.org)
+
+
+
+#### Deep Learning
+
+- [Stanford CS231n: Convolutional Neural Networks for Visual Recognition ](http://cs231n.stanford.edu)
+- [Stanford CS224n: Natural Language Processing](http://web.stanford.edu/class/cs224n/index.html)
+  - [My repository](https://github.com/PKUFlyingPig/CS224n)
+
+- [Stanford CS224W: Graphic Neural Network](http://web.stanford.edu/class/cs224w/)
+- [Stanford CS234: Reinforce Learning](https://github.com/Zhenye-Na/reinforcement-learning-stanford)
+
+
+
+### Computer Systems
+
+---
+
+- [MIT 6.S081: Operating System](https://github.com/PKUFlyingPig/MIT6.S081-2020fall)
+
+This course is lab-driven, you will implement many features of a real operating system based on xv6 (a toy operating system which is designed for teaching). After finishing 11 labs, I'm sure you will have a deep understanding of the operating system.
+
+- [MIT 6.824: Distributed Systems](https://pdos.csail.mit.edu/6.824/schedule.html)
+
+
 
