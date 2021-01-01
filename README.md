@@ -242,5 +242,16 @@ This course is lab-driven, you will implement many features of a real operating 
 
 - [MIT 6.824: Distributed Systems](https://pdos.csail.mit.edu/6.824/schedule.html)
 
+Interesting , but very hard :(
+
+- [Computer Networking: A top down approach](https://gaia.cs.umass.edu/kurose_ross/wireshark.htm)
+- [standford CS144: Introduction to computer network](https://cs144.github.io)
+
+In the fall 2020, the authors of this wonderful book make online videos which you can use to supplement your learning. Also, the standford course has a great lab which you will implement a TCP stack.
+
+- [Stanford CS143: Compilers](http://web.stanford.edu/class/cs143/)
+
+I heard of this great course, but I don't have time to start learning it.
+
 
 
