@@ -237,6 +237,7 @@ This course is taught by Andrew Ng (吴恩达). This couse is maths heavy. If yo
 ---
 
 - [MIT 6.S081: Operating System](https://github.com/PKUFlyingPig/MIT6.S081-2020fall)
+  - [My repository](https://github.com/PKUFlyingPig/MIT6.S081-2020fall)
 
 This course is lab-driven, you will implement many features of a real operating system based on xv6 (a toy operating system which is designed for teaching). After finishing 11 labs, I'm sure you will have a deep understanding of the operating system.
 
