@@ -85,7 +85,7 @@ I personally find this course a little easy, so I also take the numerical analys
 - [MIT6.441: Information Theory](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-441-information-theory-spring-2016/syllabus/)
 
 - [Standford EE364A: Convex Optimization](http://stanford.edu/class/ee364a/index.html)
-  - [My repository]()
+  - [My repository](https://github.com/PKUFlyingPig/Standford_CVX101)
 
 - [Standford CS255: Cryptography](http://crypto.stanford.edu/~dabo/cs255/)
 
