@@ -124,7 +124,7 @@ CS50 is the most popular courses in Havard University, the first course you will
 
 ---
 
-Now you may have quite more  experience in programming, but to the art of programming is not programming itself, but to use it to solve problems !
+Now you may have quite more  experience in programming, but the art of programming is not programming itself, but to use it to solve problems !
 
 - [UCB CS61B: data structures and algorithms](https://sp18.datastructur.es)
   -  [My repository](https://github.com/PKUFlyingPig/CS61B)
@@ -165,7 +165,7 @@ These two lessons are the introduction courses for freshman in UC Berkeley major
 - [UCB EE120 : signal and systems](https://inst.eecs.berkeley.edu/~ee120/fa19/)
   - [My repository](https://github.com/PKUFlyingPig/UCB-EE120)
 
-
+Signal and systems is a very important course which will change your views of the world ! MIT 6.003 course is a little bit hard but it provides all the lecture videos and homework with solutions. I highly recommend you watch the videos of 6.003 and read the notes of EE120, personally I think the notes about Fourier transform are quite clear and great. Also, EE120 has some very interesting labs where you can use python to process real signals and solve practical problems.
 
 ### Computer Architecture
 
