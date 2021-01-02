@@ -180,7 +180,7 @@ This course got 5.0 score on coursera ! In this course, you will use logic gates
 
 
 - [UCB CS61C: Great Ideas in Computer Architecture](https://cs61c.org/su20/) [My repository](https://github.com/PKUFlyingPig/CS61C-summer20)
-  - [My repository]()
+  - [My repository](https://github.com/PKUFlyingPig/CS61C-summer20)
 
 All the labs and projects and fantastic. In this course, you will learn C programming language and RISC-V assembly language, understand how the computer run your code, write a MNIST classification neural network in RISC-V, build your own CPU to run RISC-V, and finally, you can write a naive, but quite powerful **numpy** in C to accelerate the matrix manipulation. The best architecture course I've ever taken !
 
