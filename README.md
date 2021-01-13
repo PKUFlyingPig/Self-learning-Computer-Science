@@ -34,7 +34,7 @@ This course is designed for freshman in MIT, I strongly recommend you take it to
 
 
 
-#### Median
+#### Intermediate
 
 ##### Probability theory
 
