@@ -40,6 +40,8 @@ This course is designed for freshman in MIT, I strongly recommend you take it to
 
 - [UCB CS70: discrete Math and probility theory](http://www.eecs70.org)
 
+  - [My repository](https://github.com/PKUFlyingPig/UCB-CS70)
+
 - [MIT6.431: Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/index.htm)
 
 - [UCB CS126: Probility theory](https://inst.eecs.berkeley.edu/~ee126/fa20/content.html)
@@ -242,8 +244,9 @@ This course is taught by Andrew Ng (吴恩达). This couse is maths heavy. If yo
 This course is lab-driven, you will implement many features of a real operating system based on xv6 (a toy operating system which is designed for teaching). After finishing 11 labs, I'm sure you will have a deep understanding of the operating system.
 
 - [MIT 6.824: Distributed Systems](https://pdos.csail.mit.edu/6.824/schedule.html)
+  - [my repository](https://github.com/PKUFlyingPig/MIT6.824)
 
-Interesting , but very hard :(
+I'm focusing on the course during my winter holiday. Wonderful labs !!
 
 - [Computer Networking: A top down approach](https://gaia.cs.umass.edu/kurose_ross/wireshark.htm)
 - [standford CS144: Introduction to computer network](https://cs144.github.io)
@@ -254,5 +257,8 @@ In the fall 2020, the authors of this wonderful book make online videos which yo
 
 I heard of this great course, but I don't have time to start learning it.
 
+- [UCB CS161: Computer Security](https://cs161.org) 
+  - [My repository](https://github.com/PKUFlyingPig/UCB-CS161)
 
+Wonderful course! Bufferoverflow, cryptography, web security, network security ... ... 
 
