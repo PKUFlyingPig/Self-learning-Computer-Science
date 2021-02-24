@@ -46,6 +46,8 @@ This course is designed for freshman in MIT, I strongly recommend you take it to
 
 - [UCB CS126: Probility theory](https://inst.eecs.berkeley.edu/~ee126/fa20/content.html)
 
+  - [My repository](https://github.com/PKUFlyingPig/EECS126)
+  
   I took these three courses about probility theory, the UCB CS126 have some really interesting labs. I suggest you take the first two to enhance your theoretical basis then take the last one just for fun !
 
 ##### Differential equations
@@ -157,6 +159,7 @@ In this course you will learn more advanced algorithms like dynamic programming,
 As a CS student, it does not harm to learn some EE lessons to deepen your understandings on the hardware. I find these basic EE lessons will help you learn more advanced CS courses about computer architecture.
 
 - [UCB: EE16A](https://inst.eecs.berkeley.edu/~ee16a/su20/#schedule)
+  - [My repository](https://github.com/PKUFlyingPig/EE16A)
 - [UCB: EE16B](https://www.eecs16b.org/#schedule)
 
 These two lessons are the introduction courses for freshman in UC Berkeley majored in EE. You can learn the basic ideas about circuits and some data analysis methods. You can also make your hands dirty in its labs.
