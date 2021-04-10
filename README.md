@@ -10,6 +10,16 @@ All the courses in this repository are developed in MIT, UC Berkeleys, Princeton
 
 Let's self-learning together and get better together !
 
+## Overview
+
+This guidance is little bit long and may grow as I learn. Here is the section links.
+
+[Great resources](#great-resources)
+
+[Maths Course](#maths-course)
+
+[Programming Basics](#programming-basics)
+
 ## Great resources
 
 Some people asked me how can I find these wonderful courses. Here are some great links I use to choose my learning materials.
@@ -24,7 +34,7 @@ Some people asked me how can I find these wonderful courses. Here are some great
 
 [MIT CS Course List](http://student.mit.edu/catalog/m6a.html): The computer science courses list for MIT students.
 
-## Math courses 📖
+## Maths courses 📖
 
 I'm a fan in math, so I take many math courses which CS students are not obligated to take, feel free to take the ones you like !
 
