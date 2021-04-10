@@ -12,17 +12,23 @@ Let's self-learning together and get better together !
 
 ## Overview
 
-This guidance is little bit long and may grow as I learn. Here is the section links.
+This guidance is little bit long and may grow as I learn. Here is the section links. After each section, there is a ↩ which can link you back into Overview.
 
 [Great Resources](#great-resources)
 
-[Maths Courses](#maths-courses)
+[Maths Courses](#maths-courses-)
 
-[Programming Basics](#programming-basics)
+[Programming Basics](#programming-basics-)
 
-[Data structures and Algorithms](#data-structures-and-algorithms)
+[Data structures and Algorithms](#data-structures-and-algorithms-)
 
-[Electronical Engineering Basics](#electronical-engineering-basics)
+[Electronical Engineering Basics](#electronical-engineering-basics-)
+
+[Computer Architecture](#computer-architecture-)
+
+[Machine Learning and Deep Learning](#machine-learning-and-deep Learning-)
+
+[Computer Systems](#computer-systems-)
 
 ## Great Resources
 
@@ -36,7 +42,9 @@ Some people asked me how can I find these wonderful courses. Here are some great
 
 [UC berkeley CS Course List](https://www2.eecs.berkeley.edu/Courses/CS/?_ga=2.49145060.370293363.1598336094-476512950.1598336094): The computer science courses list for UC berkeley's undergraduate students.
 
-[MIT CS Course List](http://student.mit.edu/catalog/m6a.html): The computer science courses list for MIT students.
+[MIT CS Course List](http://student.mit.edu/catalog/m6a.html): The computer science courses list for MIT students.	
+
+[↩](#overview)																												
 
 ## Maths Courses 📖
 
@@ -66,7 +74,7 @@ Think you have already been expert in these three courses ? Trust me, spend some
 
 This course is designed for freshman in MIT, I strongly recommend you taking it to understand some basic concepts in information theory.
 
-
+[↩](#overview)
 
 ### 2. Intermediate 😊
 
@@ -110,7 +118,7 @@ Then you can use julia to do the numerical analysis ! (a sad story: there are al
 
 If you find 18.330 a little easy, you can take the graduate-level course : MIT18.335 
 
-
+[↩](#overview)
 
 ### 3. Advanced 🤯
 
@@ -124,7 +132,7 @@ If you find 18.330 a little easy, you can take the graduate-level course : MIT18
 
 All the courses above are graduate-level and I haven't taken all of them. I may dive into them if I need to. However, I personally recommend the Convex Optimization course. 
 
-
+[↩](#overview)
 
 ## Programming Basics 💻
 
@@ -153,7 +161,7 @@ Have you ever heard about the legendary book SICP? but that book used the langua
 
 CS50 is the most popular courses in Havard University, the first course you will learn C, Python and SQL, the second course you will use python to learn some basic concepts about AI ! The most shining part of cs50 is the labs section. There are many interesting labs that you want to dive into it once you hear them: Minesweeper, crossword, Nim game, Tic-Tac-Toe and so on.
 
-
+[↩](#overview)
 
 ## Data structures and Algorithms 📚
 
@@ -201,7 +209,7 @@ In this course you will learn more advanced algorithms like divide-and-conquer, 
 
 This is a theoritic course where you do not need to write code but to design your algorithms and bound the time and memory complexity.
 
-
+[↩](#overview)
 
 ## Electronical Engineering Basics 📟
 
@@ -228,7 +236,7 @@ Signal and Systems is a very important course which will change your views of th
 - complete the homework of MIT 6.003 to check your understanding
 - complete the interesting labs of EE120 where you can use python to process real signals and solve practical problems (These labs are very very very interesting. For example, in lab3 you will implement your own FFT and compare it with numpy's version. In lab4 you will use the videos of your finger to predict your heart-beat rate. In lab5 you will restore blurred images taken by the Hubble Telescope. In lab6 you will control the small car to make it hold one stick.)
 
-
+[↩](#overview)
 
 ## Computer Architecture 🗄
 
@@ -266,7 +274,7 @@ The most important part of this course is its 8 labs, and they are relatively ha
 
 p.s. I was the TA for this course in 2020, and this repository is somewhat created for my seminar students. Thanks for their excellence to drive me to write this long long README : )
 
-
+[↩](#overview)
 
 ## Machine Learning and Deep Learning 🧬
 
@@ -300,7 +308,7 @@ This course is taught by Andrew Ng (吴恩达). This couse is maths heavy. If yo
 - [Stanford CS224W: Graphic Neural Network](http://web.stanford.edu/class/cs224w/)
 - [Stanford CS234: Reinforce Learning](https://github.com/Zhenye-Na/reinforcement-learning-stanford)
 
-
+[↩](#overview)
 
 ##Computer Systems 🧙
 
@@ -377,4 +385,6 @@ The shining part of the course is the labs and projects, which will greatly enha
   - Proj1 : Hack into the VM using buffer overflow attacks. You will do real attacks on the providing virtualbox virtual machine.
   - **Proj2 (warning) :** This is a very code-heavy projects. You will implement a secure file sharing system in Go language. [Here is my implementation and design doc.](https://github.com/PKUFlyingPig/CS161-Project2-SecureFileShareSystem)(I spent three whole days to complete this project, 3k lines of code in total)
   - Proj3 : TBA
+
+[↩](#overview)
 
