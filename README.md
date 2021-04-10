@@ -12,7 +12,7 @@ Let's self-learning together and get better together !
 
 ## Overview
 
-This guidance is little bit long and may grow as I learn. Here is the section links. After each section, there is a ↩ which can link you back into Overview.
+This guidance is little bit long and may grow as I learn. Here are the section links. After each section, there is a ↩ which can link you back into Overview.
 
 [Great Resources](#great-resources)
 
@@ -224,10 +224,10 @@ These two lessons are the introduction courses for freshman in UC Berkeley major
 
 ---
 
-| Course Link                                                  | Language | My repository                                              | Difficulty |
-| ------------------------------------------------------------ | -------- | ---------------------------------------------------------- | ---------- |
-| [MIT 6.003 : signal and systems](https://www.eecs16b.org/#schedule) | ------   |                                                            | 🌟🌟🌟        |
-| [UCB EE120 : signal and systems](https://inst.eecs.berkeley.edu/~ee120/fa19/) | Python   | [My repository](https://github.com/PKUFlyingPig/UCB-EE120) | 🌟🌟🌟        |
+| Course Link                                                  | Language | My repository                                          | Difficulty |
+| ------------------------------------------------------------ | -------- | ------------------------------------------------------ | ---------- |
+| [MIT 6.003 : signal and systems](https://www.eecs16b.org/#schedule) | ------   |                                                        | 🌟🌟🌟        |
+| [UCB EE120 : signal and systems](https://inst.eecs.berkeley.edu/~ee120/fa19/) | Python   | [Completed](https://github.com/PKUFlyingPig/UCB-EE120) | 🌟🌟🌟        |
 
 Signal and Systems is a very important course which will change your views of the world ! MIT 6.003 provides all the lecture videos and homework with solutions. UCB EE120 has some great course notes which I think are written in a very clear and easy to understand way. Personally I think the notes about Fourier transform are quite clear and great. So my recommended learning map is as follows :
 
