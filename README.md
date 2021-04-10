@@ -26,7 +26,7 @@ This guidance is little bit long and may grow as I learn. Here is the section li
 
 [Computer Architecture](#computer-architecture-)
 
-[Machine Learning and Deep Learning](#machine-learning-and-deep Learning-)
+[Machine Learning and Deep Learning](#machine-learning-and-deep-learning-)
 
 [Computer Systems](#computer-systems-)
 
@@ -310,7 +310,7 @@ This course is taught by Andrew Ng (吴恩达). This couse is maths heavy. If yo
 
 [↩](#overview)
 
-##Computer Systems 🧙
+## Computer Systems 🧙
 
 ### 1. Operating System
 
