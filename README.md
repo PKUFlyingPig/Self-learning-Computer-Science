@@ -14,13 +14,17 @@ Let's self-learning together and get better together !
 
 This guidance is little bit long and may grow as I learn. Here is the section links.
 
-[Great resources](#great-resources)
+[Great Resources](#great-resources)
 
-[Maths Course](#maths-course)
+[Maths Courses](#maths-courses)
 
 [Programming Basics](#programming-basics)
 
-## Great resources
+[Data structures and Algorithms](#data-structures-and-algorithms)
+
+[Electronical Engineering Basics](#electronical-engineering-basics)
+
+## Great Resources
 
 Some people asked me how can I find these wonderful courses. Here are some great links I use to choose my learning materials.
 
@@ -34,7 +38,7 @@ Some people asked me how can I find these wonderful courses. Here are some great
 
 [MIT CS Course List](http://student.mit.edu/catalog/m6a.html): The computer science courses list for MIT students.
 
-## Maths courses 📖
+## Maths Courses 📖
 
 I'm a fan in math, so I take many math courses which CS students are not obligated to take, feel free to take the ones you like !
 
