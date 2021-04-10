@@ -4,7 +4,7 @@
 
 I'm an undergraduate student majored in Computer Science in Peking University. Tired of the boring courses, I began self-learning totally after my fresh year. This repository contains all the resources I used to self-learning. The links below will take you either to another repository which contains my solution for homework and course projects or to the course website where you can get full guidance.
 
-If you feel quite painful to take the courses in unversity, trust me, there is high possibility that it's not your duty. Computer-Science is so interesting and everyone should enjoy it if you have a good teacher to teach you a good course.
+If you feel quite painful to take the courses at unversity. Trust me, there is high possibility that it's not your duty. Computer Science is so interesting and everyone should enjoy it if you have a good teacher to teach you a good course.
 
 All the courses in this repository are developed in MIT, UC Berkeleys, Princeton, Harvard ...... , and I guarantee you will have a completely different experience to take these courses !
 
@@ -12,7 +12,7 @@ Let's self-learning together and get better together !
 
 ## Overview
 
-This guidance is little bit long and may grow as I learn. Here are the section links. After each section, there is a ↩ which can link you back into Overview.
+This guidance is a little bit long and may grow as I learn. Here are the section links. After each section, there is a ↩ which can link you back into Overview.
 
 [Great Resources](#great-resources)
 
@@ -32,11 +32,11 @@ This guidance is little bit long and may grow as I learn. Here are the section l
 
 ## Great Resources
 
-Some people asked me how can I find these wonderful courses. Here are some great links I use to choose my learning materials.
+Some people asked me how can I find these wonderful courses. Here are some great links that I used to choose my learning materials.
 
 [MIT OpenCouse Ware](https://ocw.mit.edu/courses/#electrical-engineering-and-computer-science): There are hundreds of thousands of MIT courses in this website including all the subjects you can name. 
 
-[UC berkeley EECS course map](https://hkn.eecs.berkeley.edu/courseguides): The map details the UC berkeley EECS course dependancy and has links to each course's official website.
+[UC berkeley EECS course map](https://hkn.eecs.berkeley.edu/courseguides): The map details the UC berkeley EECS courses dependancy and has links to each course's official website.
 
 ![image](images/coursemap.png)
 
@@ -48,7 +48,7 @@ Some people asked me how can I find these wonderful courses. Here are some great
 
 ## Maths Courses 📖
 
-I'm a fan in math, so I take many math courses which CS students are not obligated to take, feel free to take the ones you like !
+I'm a fan in math, so I took many maths courses which CS students are not obligated to take. So feel free to take the ones you like !
 
 ### 1. Basics 🌱
 
@@ -62,7 +62,7 @@ I'm a fan in math, so I take many math courses which CS students are not obligat
 | [MIT18.02: Multi variable calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/) | 🌟🌟🌟        |
 | [MIT18.06: Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/syllabus/) | 🌟🌟🌟        |
 
-Think you have already been expert in these three courses ? Trust me, spend some time to read the course notes, it will deepen your understanding !
+Think you have already been expert in these three courses ? Trust me, spend some time reading the course notes, it will deepen your understanding !
 
 
 
@@ -72,7 +72,7 @@ Think you have already been expert in these three courses ? Trust me, spend some
 | ------------------------------------------------------------ | ---------- |
 | [MIT6.050J: Information theory and Entropy](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-050j-information-and-entropy-spring-2008/index.htm) | 🌟🌟         |
 
-This course is designed for freshman in MIT, I strongly recommend you taking it to understand some basic concepts in information theory.
+This course is designed for freshman in MIT. I strongly recommend you to take it to understand some basic concepts in information theory.
 
 [↩](#overview)
 
@@ -116,7 +116,7 @@ In the first course, you will master julia and do some basic but interesting lab
 
 Then you can use julia to do the numerical analysis ! (a sad story: there are also many theoretical contents ~)
 
-If you find 18.330 a little easy, you can take the graduate-level course : MIT18.335 
+If you find 18.330 a little bit easy, you can take the graduate-level course : MIT18.335.
 
 [↩](#overview)
 
@@ -130,25 +130,25 @@ If you find 18.330 a little easy, you can take the graduate-level course : MIT18
 | [Standford EE364A: Convex Optimization](http://stanford.edu/class/ee364a/index.html) | [Completed](https://github.com/PKUFlyingPig/Standford_CVX101) | 🌟🌟🌟🌟       |
 | [Standford CS255: Cryptography](http://crypto.stanford.edu/~dabo/cs255/) |                                                              | Unknown    |
 
-All the courses above are graduate-level and I haven't taken all of them. I may dive into them if I need to. However, I personally recommend the Convex Optimization course. 
+All the courses above are graduate-level and I haven't taken all of them. I may dive into some of them when I need. However, I personally recommend the Convex Optimization course. 
 
 [↩](#overview)
 
 ## Programming Basics 💻
 
-There are many programming courses to freshman, I find all of them interesting !
+There are many programming courses for freshman, I find all of them interesting !
 
 | Course Link                                                 | Language | Difficulty |
 | ----------------------------------------------------------- | -------- | ---------- |
 | [MIT missing-semester](https://missing.csail.mit.edu/2020/) | Shell    | 🌟🌟         |
 
-Just as the course name said, this course will teach the missing things in the university courses. It will cover shell programming, git, vim editor, tmux, ssh, sed, awk and even how to beatify your terminal. Trust me, this will be your first step to become a hacker !
+Just as the course name indicated, this course will teach the missing things in the university courses. It will cover shell programming, git, vim editor, tmux, ssh, sed, awk and even how to beatify your terminal. Trust me, this will be your first step to become a hacker !
 
 ---
 
-| Course Link                                                  | Language    | My repository                                      | Difficulty |
-| ------------------------------------------------------------ | ----------- | -------------------------------------------------- | ---------- |
-| [UCB CS61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/su20/) | Python, SQL | [Completed](https://github.com/PKUFlyingPig/CS61A) | 🌟🌟🌟        |
+| Course Link                                                  | Language            | My repository                                      | Difficulty |
+| ------------------------------------------------------------ | ------------------- | -------------------------------------------------- | ---------- |
+| [UCB CS61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/su20/) | Python, SQL, Scheme | [Completed](https://github.com/PKUFlyingPig/CS61A) | 🌟🌟🌟        |
 
 Have you ever heard about the legendary book SICP? but that book used the language "Scheme" which is not so popular today. This course uses Python to teach you the same idea! Isn't that cool ? Trust me, after this course, you will be expert in python!
 
@@ -159,7 +159,7 @@ Have you ever heard about the legendary book SICP? but that book used the langua
 | [Havard: cs50](https://cs50.harvard.edu/x/2020/syllabus/) | C, Python, SQL |                                                      | 🌟🌟         |
 | [Havard: cs50 ai](https://cs50.harvard.edu/ai/2020/)      | Python         | [Completed](https://github.com/PKUFlyingPig/cs50_ai) | 🌟🌟🌟        |
 
-CS50 is the most popular courses in Havard University, the first course you will learn C, Python and SQL, the second course you will use python to learn some basic concepts about AI ! The most shining part of cs50 is the labs section. There are many interesting labs that you want to dive into it once you hear them: Minesweeper, crossword, Nim game, Tic-Tac-Toe and so on.
+CS50 is the most popular courses in Havard University. In the first course you will learn C, Python and SQL. In the second course you will use python to learn some basic concepts about AI ! The most shining part of cs50 is the lab sections. There are many interesting labs that you want to dive into it once you hear about them: Minesweeper, crossword, Nim game, Tic-Tac-Toe and so on.
 
 [↩](#overview)
 
@@ -173,7 +173,7 @@ And, it is actually very interesting to learn ~~ if you found it hard, it must b
 | ------------------------------------------------------------ | -------- | -------------------------------------------------- | ------------------------------ |
 | [UCB CS61B: data structures and algorithms](https://sp18.datastructur.es) | Java     | [Completed](https://github.com/PKUFlyingPig/CS61B) | 🌟🌟🌟 (not hard, but code heavy) |
 
-In this course you will learn Java and use it to implement many data structures and algorithms, I highly recommend you taking the Spring 2018 version where you can use the Gradescope to self-grade your code, see the course website for more details ! 
+In this course you will learn Java and use it to implement many data structures and algorithms. I highly recommend you to take the Spring 2018 version where you can use the Gradescope to self-grade your code. See the course website for more details ! 
 
 Also, this course has some great labs and projects. In labs, you will implement the data structure by yourself. While in projects, you will use data structures to solve real problems. For example, in project 1 you will simulate the N-body problem. In project 2, you will implement a game in java. In project 3, you will implement a mini-GoogleMap.
 
@@ -187,17 +187,17 @@ These two courses are the most great algorithm courses I found in coursera.
 
 Do you often forget how to implement a specific algorithms?  
 
-I find  the easiest way to master an algorithm is :
+I find the easiest way to master an algorithm is :
 
-- first to know why do this way
+- first to know why do in this way
 - second to know how to implement it
 - then to use it to solve real problems
 
-To know why you should do the algorithm this way, I think the [open-sourced textbook](https://algs4.cs.princeton.edu/home/) of this course is very helpful, where you can find the rigorous mathematical proofs for all the algorithms in this course.
+To know why you should do the algorithm in this way, I think the [open-sourced textbook](https://algs4.cs.princeton.edu/home/) of this course is very helpful, where you can find the rigorous mathematical proofs for all the algorithms in this course.
 
 To know how to implement it, the author implements [all the algorithms in Java](https://algs4.cs.princeton.edu/code/) in a clear and efficient way. I find it very helpful to learn from official codes. 
 
-Now the last and also the most exciting part —— use it to solve real problems. These two courses have 12 projects where you can use the algorithms to solve practical problems. 
+Now the last and also the most exciting part —— use it to solve real problems. These are 12 projects in total where you can use algorithms to solve practical problems. 
 
 ---
 
@@ -205,7 +205,7 @@ Now the last and also the most exciting part —— use it to solve real problem
 | ------------------------------------------------------------ | -------- | ------------- | ---------- |
 | [UCB CS170: Efficient Algorithms and Intractable Problems](https://cs170.org) | Latex    | TBA           | 🌟🌟🌟🌟       |
 
-In this course you will learn more advanced algorithms like divide-and-conquer, dynamic programming, Network Flow, Graph algorithms and some NP problems.
+In this course you will learn more advanced algorithms like divide-and-conquer, dynamic programming, Network Flow, Graph algorithms Linear Programming and some NP problems.
 
 This is a theoritic course where you do not need to write code but to design your algorithms and bound the time and memory complexity.
 
@@ -220,7 +220,7 @@ As a CS student, it does not harm to learn some EE lessons to deepen your unders
 | [UCB: EE16A](https://inst.eecs.berkeley.edu/~ee16a/su20/#schedule) | Python   | [Completed](https://github.com/PKUFlyingPig/EE16A) | 🌟🌟         |
 | [UCB: EE16B](https://www.eecs16b.org/#schedule)              | Python   | TBA                                                | 🌟🌟🌟        |
 
-These two lessons are the introduction courses for freshman in UC Berkeley majored in EE. You can learn the basic ideas about circuits and some data analysis methods. You can also make your hands dirty in its labs.
+These two lessons are the introductary courses for freshman in UC Berkeley majored in EE. You can learn the basic ideas about circuits and some data analysis methods. You can also make your hands dirty in its labs.
 
 ---
 
@@ -240,17 +240,17 @@ Signal and Systems is a very important course which will change your views of th
 
 ## Computer Architecture 🗄
 
-Now it's the most exciting part. When I was a little boy, people always told me that computer's world is just 0 and 1. I was so confused and sweared to understand how on earth the computer works in just 0 and 1. After learning these courses, you will understand in depth.
+Now it's the most exciting part. When I was a little boy, people always told me that computer's world is just 0 and 1. I was so confused and sweared to understand how on earth the computer works in just 0 and 1. After learning these courses, you will understand it in depth.
 
 | Course Link                                                  | Language                           | My repository                                             | Difficulty |
 | ------------------------------------------------------------ | ---------------------------------- | --------------------------------------------------------- | ---------- |
 | [Nand2Tetris I](https://www.coursera.org/learn/build-a-computer/home/week/1) & [Nand2Tetrix II](https://www.coursera.org/learn/nand2tetris2/home/welcome) | choose as you like, I chose Python | [Completed](https://github.com/PKUFlyingPig/NandToTetris) | 🌟🌟🌟        |
 
-This course got 5.0 score on coursera ! It is divided into two part : hardware part and software part.
+This course got 5.0 full score on coursera ! It is divided into two part : hardware part and software part.
 
-Hardware part : you will use Nand gates to implement all the components (ALU, Memory, Decoder, Mutiplex ... ...) that a computer needs to run. In the end you will implement a CPU to run your machine code.
+Hardware part : you will use Nand gates to implement all the components (ALU, Memory, Decoder, Mutiplexer ... ...) of a running computer. In the end you will implement a CPU to run your machine code.
 
-Software part : The author created a new language called Jack. You will write the compiler to translate the Jack code into your machine code and run it on the computer you made in the hardware part. Then you will implement a really basic OS to do the input and output. Finally you can wirte a Tetris game in Jack and play it on the computer you made ! It is so coolllllll !
+Software part : The author created a new language called Jack. You will write the compiler to translate the Jack code into your machine code and run it on the computer you made in the hardware part. Then you will implement a basic OS to do the input and output. Finally you can write a Tetris game in Jack and play it on the computer you made ! It is so coolllllll !
 
 ---
 
@@ -260,7 +260,7 @@ Software part : The author created a new language called Jack. You will write th
 
 Although Nand2Tetris course is great, it is not a university-level course. So to step further, CS61C is your choice.
 
-All the labs and projects and fantastic. In this course, you will learn C programming language and RISC-V assembly language, understand how the computer run your code, write a MNIST classification neural network in RISC-V, use Logism to build your own CPU to run RISC-V from scratch, and finally, you can write a naive, but quite powerful **numpy** in C to accelerate the matrix manipulation. This is the best architecture course I've ever taken !
+All the labs and projects and fantastic. In this course, you will learn C programming language and RISC-V assembly language, understand how the computer runs your code, write a MNIST classification neural network in RISC-V, use Logism to build your own CPU to run RISC-V from scratch, and finally, you can write a naive, but quite powerful **numpy** in C to accelerate the matrix manipulation. This is the best architecture course I've ever taken !
 
 ---
 
@@ -268,9 +268,9 @@ All the labs and projects and fantastic. In this course, you will learn C progra
 | --------------------------------------------- | -------- | ---------- |
 | [CMU CS15213: CASPP](http://csapp.cs.cmu.edu) | C        | 🌟🌟🌟🌟🌟      |
 
-This course is so well-known and I don't believe that you haven't heard about it before. Peking University has bought the copyright of this course so I took this course at school, but its official website has all the materials for you to complete the course. You can found course videos on Bilibili or Youtube. 
+This course is so well-known and I don't believe that you haven't heard about it before. Peking University has bought the copyright of this course so I took this course at school, but its official website has all the materials for you to complete the course. You can find course videos on Bilibili or Youtube. 
 
-The most important part of this course is its 8 labs, and they are relatively hard comparing to the other labs in the above courses.
+The most important part of this course is its 8 labs, but the labs are relatively hard comparing to the other labs in the above courses.
 
 p.s. I was the TA for this course in 2020, and this repository is somewhat created for my seminar students. Thanks for their excellence to drive me to write this long long README : )
 
@@ -328,7 +328,7 @@ This course is lab-driven, you will implement many features of a real operating 
 | ------------------------------------------------------------ | -------- | --------------------------------------------------- | ---------- |
 | [MIT 6.824: Distributed Systems](https://pdos.csail.mit.edu/6.824/schedule.html) | Go       | [Ongoing](https://github.com/PKUFlyingPig/MIT6.824) | 🌟🌟🌟🌟🌟🌟     |
 
-One paper per class!!  Wonderful labs !! You will implement a working Raft protocal and write your KV storing service above it.
+One paper per class!!  Wonderful labs !! You will implement a working Raft protocal and write your KV storing service based on it.
 
 This course is graduate-level and very hard. I am trying to find some time to finish it.
 
@@ -339,11 +339,11 @@ This course is graduate-level and very hard. I am trying to find some time to fi
 | Course Link                                                  | Language | Repository                                                   | Difficulty |
 | ------------------------------------------------------------ | -------- | ------------------------------------------------------------ | ---------- |
 | [Computer Networking: A top down approach](https://gaia.cs.umass.edu/kurose_ross/wireshark.htm) | Python   | [Ongoing](https://github.com/PKUFlyingPig/Computer-Network-A-Top-Down-Approach) | 🌟🌟🌟        |
-| [standford CS144: Introduction to computer network](https://cs144.github.io) | C++      | [Ongoing](https://github.com/PKUFlyingPig/CS144-Computer-Network) | 🌟🌟🌟🌟🌟      |
+| [stanford CS144: Introduction to computer network](https://cs144.github.io) | C++      | [Ongoing](https://github.com/PKUFlyingPig/CS144-Computer-Network) | 🌟🌟🌟🌟🌟      |
 
 In the fall 2020, the authors of this wonderful book (A Top Down Approach) released his teaching videos online which you can use to supplement your learning. In its labs, you will use wireshark to catch real network packet to understand how each protocol works. 
 
-The standford course is much harder and you can also find its teaching videos on Youtube or Bilibili. In its labs you will implement the TCP, Network Interface, IP routing and put them together to talk with other peer on the Internet. Sounds cool right? (a sad story: the labs are time-consuming, personally I spent 5-6 hours per lab on average). 
+The stanford course is much harder and you can also find its teaching videos on Youtube or Bilibili. In its labs you will implement the TCP, Network Interface, IP routing and put them together to talk with other peers on the Internet. Sounds cool right? (a sad story: the labs are time-consuming, personally I spent 5-6 hours per lab on average). 
 
 Here is the picture of what you will implement in CS144 labs :
 
@@ -378,7 +378,7 @@ This course is divided into 5 sections:
 The shining part of the course is the labs and projects, which will greatly enhance your mastery of the knowledge.
 
 - Labs : there are three labs in total
-  - padding oracle : how to make use of the padding oracle to breach the block cryption.
+  - padding oracle : how to make use of the padding oracle to breach the block cypher.
   - a real attack : a real problem countered in the CS61A's exam file releasing
   - networking : packet sniffing
 - Projects : there are three projects in total 
