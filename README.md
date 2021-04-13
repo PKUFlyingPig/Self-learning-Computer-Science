@@ -353,9 +353,9 @@ Here is the picture of what you will implement in CS144 labs :
 
 ### 4. Compiler
 
-| Course Link                                                  | Programming Language | My repository                                                | Difficult |
-| ------------------------------------------------------------ | -------------------- | ------------------------------------------------------------ | --------- |
-| [Stanford CS143: Compilers](http://web.stanford.edu/class/cs143/) | Java or C            | [Ongoing](https://github.com/skyzluo/CS143-Compilers-Stanford) | 🌟🌟🌟🌟🌟     |
+| Course Link                                                  | Programming Language | My repository                                                | Difficulty |
+| ------------------------------------------------------------ | -------------------- | ------------------------------------------------------------ | ---------- |
+| [Stanford CS143: Compilers](http://web.stanford.edu/class/cs143/) | Java or C            | [Ongoing](https://github.com/skyzluo/CS143-Compilers-Stanford) | 🌟🌟🌟🌟🌟      |
 
 I am taking Compiler course at school this term. Hope I can have time to complete this legendary course.
 
