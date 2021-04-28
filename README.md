@@ -183,7 +183,7 @@ Also, this course has some great labs and projects. In labs, you will implement 
 | ------------------------------------------------------------ | -------- | ------------------------------------------------------------ | ----------------------------- |
 | [Princeton: Algorithms I](https://www.coursera.org/learn/algorithms-part1) & [Princeton: Algorithms II](https://www.coursera.org/learn/algorithms-part2/home/welcome) | Java     | [Completed](https://github.com/PKUFlyingPig/Princeton-Algorithm) | 🌟🌟🌟(not hard, but code heavy) |
 
-These two courses are the most great algorithm courses I found in coursera.
+These two courses are the greatest algorithm courses I found in coursera.
 
 Do you often forget how to implement a specific algorithms?  
 
@@ -197,7 +197,7 @@ To know why you should do the algorithm in this way, I think the [open-sourced t
 
 To know how to implement it, the author implements [all the algorithms in Java](https://algs4.cs.princeton.edu/code/) in a clear and efficient way. I find it very helpful to learn from official codes. 
 
-Now the last and also the most exciting part —— use it to solve real problems. These are 12 projects in total where you can use algorithms to solve practical problems. 
+Now the last and also the most exciting part —— use it to solve real problems. These are 10 projects in total where you can use algorithms to solve practical problems. 
 
 ---
 
@@ -226,7 +226,7 @@ These two lessons are the introductary courses for freshman in UC Berkeley major
 
 | Course Link                                                  | Language | My repository                                          | Difficulty |
 | ------------------------------------------------------------ | -------- | ------------------------------------------------------ | ---------- |
-| [MIT 6.003 : signal and systems](https://www.eecs16b.org/#schedule) | ------   |                                                        | 🌟🌟🌟        |
+| [MIT 6.003 : signal and systems](https://www.eecs16b.org/#schedule) | ------   | -----                                                  | 🌟🌟🌟        |
 | [UCB EE120 : signal and systems](https://inst.eecs.berkeley.edu/~ee120/fa19/) | Python   | [Completed](https://github.com/PKUFlyingPig/UCB-EE120) | 🌟🌟🌟        |
 
 Signal and Systems is a very important course which will change your views of the world ! MIT 6.003 provides all the lecture videos and homework with solutions. UCB EE120 has some great course notes which I think are written in a very clear and easy to understand way. Personally I think the notes about Fourier transform are quite clear and great. So my recommended learning map is as follows :
@@ -338,7 +338,7 @@ This course is graduate-level and very hard. I am trying to find some time to fi
 
 | Course Link                                                  | Language | Repository                                                   | Difficulty |
 | ------------------------------------------------------------ | -------- | ------------------------------------------------------------ | ---------- |
-| [Computer Networking: A top down approach](https://gaia.cs.umass.edu/kurose_ross/wireshark.htm) | Python   | [Ongoing](https://github.com/PKUFlyingPig/Computer-Network-A-Top-Down-Approach) | 🌟🌟🌟        |
+| [Computer Networking: A top down approach](https://gaia.cs.umass.edu/kurose_ross/wireshark.htm) | Python   | [Completed](https://github.com/PKUFlyingPig/Computer-Network-A-Top-Down-Approach) | 🌟🌟🌟        |
 | [stanford CS144: Introduction to computer network](https://cs144.github.io) | C++      | [Ongoing](https://github.com/PKUFlyingPig/CS144-Computer-Network) | 🌟🌟🌟🌟🌟      |
 
 In the fall 2020, the authors of this wonderful book (A Top Down Approach) released his teaching videos online which you can use to supplement your learning. In its labs, you will use wireshark to catch real network packet to understand how each protocol works. 
@@ -384,7 +384,7 @@ The shining part of the course is the labs and projects, which will greatly enha
 - Projects : there are three projects in total 
   - Proj1 : Hack into the VM using buffer overflow attacks. You will do real attacks on the providing virtualbox virtual machine.
   - **Proj2 (warning) :** This is a very code-heavy projects. You will implement a secure file sharing system in Go language. [Here is my implementation and design doc.](https://github.com/PKUFlyingPig/CS161-Project2-SecureFileShareSystem)(I spent three whole days to complete this project, 3k lines of code in total)
-  - Proj3 : TBA
+  - Proj3 : In this project, you will use what you have learned in web scurity to attack a poorly-implemented website. Unfortunately, this project is only available for the berkeley's students. However, I found a great website [Hacker101](https://ctf.hacker101.com/ctf) which provides similar project.
 
 [↩](#overview)
 
