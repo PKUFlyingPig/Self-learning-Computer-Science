@@ -30,6 +30,8 @@ This guidance is a little bit long and may grow as I learn. Here are the section
 
 [Computer Systems](#computer-systems-)
 
+[Software Engineering](#software-engineering)
+
 ## Great Resources
 
 Some people asked me how can I find these wonderful courses. Here are some great links that I used to choose my learning materials.
@@ -339,7 +341,7 @@ This course is graduate-level and very hard. I am trying to find some time to fi
 | Course Link                                                  | Language | Repository                                                   | Difficulty |
 | ------------------------------------------------------------ | -------- | ------------------------------------------------------------ | ---------- |
 | [Computer Networking: A top down approach](https://gaia.cs.umass.edu/kurose_ross/wireshark.htm) | Python   | [Completed](https://github.com/PKUFlyingPig/Computer-Network-A-Top-Down-Approach) | 🌟🌟🌟        |
-| [stanford CS144: Introduction to computer network](https://cs144.github.io) | C++      | [Ongoing](https://github.com/PKUFlyingPig/CS144-Computer-Network) | 🌟🌟🌟🌟🌟      |
+| [stanford CS144: Introduction to computer network](https://cs144.github.io) | C++      | [Completed](https://github.com/PKUFlyingPig/CS144-Computer-Network) | 🌟🌟🌟🌟🌟      |
 
 In the fall 2020, the authors of this wonderful book (A Top Down Approach) released his teaching videos online which you can use to supplement your learning. In its labs, you will use wireshark to catch real network packet to understand how each protocol works. 
 
@@ -388,3 +390,8 @@ The shining part of the course is the labs and projects, which will greatly enha
 
 [↩](#overview)
 
+## Software Engineering
+
+Under construction ... ...
+
+[↩](#overview)
