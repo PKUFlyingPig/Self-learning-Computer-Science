@@ -394,9 +394,9 @@ The shining part of the course is the labs and projects, which will greatly enha
 
 All the programmers can write code, but how to write good code, how to write hundreds of thousands lines of good code is hard, and is even art. 
 
-| Course Link                                                  | Programming Language | My repository | Difficulty |
-| ------------------------------------------------------------ | -------------------- | ------------- | ---------- |
-| [MIT 6.031 : Software Construction](http://web.mit.edu/6.031/www/sp20/) | Java                 | Ongoing       | 🌟🌟🌟        |
+| Course Link                                                  | Programming Language | My repository                                                | Difficulty |
+| ------------------------------------------------------------ | -------------------- | ------------------------------------------------------------ | ---------- |
+| [MIT 6.031 : Software Construction](http://web.mit.edu/6.031/www/sp20/) | Java                 | [Ongoing](https://github.com/PKUFlyingPig/MIT6.031-software-construction) | 🌟🌟🌟        |
 
 The primary goal in this course is learning how to produce software that is:
 
@@ -404,7 +404,7 @@ The primary goal in this course is learning how to produce software that is:
 - **Easy to understand**. The code has to communicate to future programmers who need to understand it and make changes in it (fixing bugs or adding new features). That future programmer might be you, months or years from now. You’ll be surprised how much you forget if you don’t write it down, and how much it helps your own future self to have a good design.
 - **Ready for change**. Software always changes. Some designs make it easy to make changes; others require throwing away and rewriting a lot of code.
 
-To achieve the goal, you will write Java code specifically, and learn how to write specifications, how to write tests, how to design good Abstract Data Types, how to write concurrent programmes and so on.
+To achieve the goal, you will learn Java, learn how to write specifications, how to write tests, how to design good Abstract Data Types, how to write concurrent programs and so on.
 
 | Course Link                                                  | Programming Language | My repository                                                | Difficulty |
 | ------------------------------------------------------------ | -------------------- | ------------------------------------------------------------ | ---------- |
@@ -416,6 +416,6 @@ Unlike other traditional software engineering course which teaches you the old "
 | ------------------------------------------------------------ | -------------------- | ------------- | ---------- |
 | [MIT web development course](https://weblab.mit.edu/schedule/) | Javascript           | Ongoing       | 🌟🌟🌟        |
 
-Don not have time to learn a comprehensive software engineering course ? Wanna develop your own website in two weeks ? Take this MIT's web development crash course! You will learn HTML/CSS/Javascript/React/NodeJS/MongoDB... ... almost all the critical things you need to know about web dev.
+Do not have time to learn a comprehensive software engineering course ? Wanna develop your own website in two weeks ? Take this MIT's web development crash course! You will learn HTML/CSS/Javascript/React/NodeJS/MongoDB... ... almost all the critical things you need to know about web dev.
 
 [↩](#overview)
