@@ -203,9 +203,9 @@ Now the last and also the most exciting part —— use it to solve real problem
 
 ---
 
-| Course Link                                                  | Language | My repository | Difficulty |
-| ------------------------------------------------------------ | -------- | ------------- | ---------- |
-| [UCB CS170: Efficient Algorithms and Intractable Problems](https://cs170.org) | Latex    | TBA           | 🌟🌟🌟🌟       |
+| Course Link                                                  | Language | My repository                                          | Difficulty |
+| ------------------------------------------------------------ | -------- | ------------------------------------------------------ | ---------- |
+| [UCB CS170: Efficient Algorithms and Intractable Problems](https://cs170.org) | Latex    | [Completed](https://github.com/PKUFlyingPig/UCB-CS170) | 🌟🌟🌟🌟       |
 
 In this course you will learn more advanced algorithms like divide-and-conquer, dynamic programming, Network Flow, Graph algorithms Linear Programming and some NP problems.
 
