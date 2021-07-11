@@ -163,6 +163,14 @@ Have you ever heard about the legendary book SICP? but that book used the langua
 
 CS50 is the most popular courses in Havard University. In the first course you will learn C, Python and SQL. In the second course you will use python to learn some basic concepts about AI ! The most shining part of cs50 is the lab sections. There are many interesting labs that you want to dive into it once you hear about them: Minesweeper, crossword, Nim game, Tic-Tac-Toe and so on.
 
+---
+
+| Course Link                                               | Language | My repository                                       | Difficulty |
+| --------------------------------------------------------- | -------- | --------------------------------------------------- | ---------- |
+| [Stanford: CS106L](http://web.stanford.edu/class/cs106l/) | C++      | [Completed](https://github.com/PKUFlyingPig/CS106L) | 🌟🌟         |
+
+This is a C++ programming course teached in Stanford University. It covers many modern features of C++ (c++11, c++17, c++20 ...), and will almost certainly help you understand C++ more in depth.
+
 [↩](#overview)
 
 ## Data structures and Algorithms 📚
