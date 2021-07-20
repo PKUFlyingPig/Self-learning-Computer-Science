@@ -169,7 +169,7 @@ CS50 is the most popular courses in Havard University. In the first course you w
 | --------------------------------------------------------- | -------- | --------------------------------------------------- | ---------- |
 | [Stanford: CS106L](http://web.stanford.edu/class/cs106l/) | C++      | [Completed](https://github.com/PKUFlyingPig/CS106L) | 🌟🌟         |
 
-This is a C++ programming course teached in Stanford University. It covers many modern features of C++ (c++11, c++17, c++20 ...), and will almost certainly help you understand C++ more in depth.
+This is a C++ programming course taught in Stanford University. It covers many modern features of C++ (c++11, c++17, c++20 ...), and will almost certainly help you understand C++ more in depth.
 
 [↩](#overview)
 
