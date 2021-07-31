@@ -396,6 +396,18 @@ The shining part of the course is the labs and projects, which will greatly enha
   - **Proj2 (warning) :** This is a very code-heavy projects. You will implement a secure file sharing system in Go language. [Here is my implementation and design doc.](https://github.com/PKUFlyingPig/CS161-Project2-SecureFileShareSystem)(I spent three whole days to complete this project, 3k lines of code in total)
   - Proj3 : In this project, you will use what you have learned in web scurity to attack a poorly-implemented website. Unfortunately, this project is only available for the berkeley's students. However, I found a great website [Hacker101](https://ctf.hacker101.com/ctf) which provides similar project.
 
+---
+
+### 6. Parallel Computing
+
+| Course Link                                                  | Programming Language | My repository                                                | Difficulty |
+| ------------------------------------------------------------ | -------------------- | ------------------------------------------------------------ | ---------- |
+| [CS149 : Parallel Computing](http://cs149.stanford.edu/fall20/) | C/C++                | [Completed](https://github.com/PKUFlyingPig/CS149-parallel-computing) | 🌟🌟🌟🌟🌟      |
+
+From smart phones, to multi-core CPUs and GPUs, to the world's largest supercomputers and web sites, parallel processing is ubiquitous in modern computing. The goal of this course is to provide a deep understanding of the fundamental principles and engineering trade-offs involved in designing modern parallel computing systems as well as to teach parallel programming techniques necessary to effectively utilize these machines. Because writing good parallel programs requires an understanding of key machine performance characteristics, this course will cover both parallel hardware and software design.
+
+There are five programming assignments in the course. You will learn to analyze parallel program, write a CUDA renderer, use OpenMP to parallel BFS and use Spark to do the page rank.
+
 [↩](#overview)
 
 ## Software Engineering
@@ -414,11 +426,15 @@ The primary goal in this course is learning how to produce software that is:
 
 To achieve the goal, you will learn Java, learn how to write specifications, how to write tests, how to design good Abstract Data Types, how to write concurrent programs and so on.
 
+---
+
 | Course Link                                                  | Programming Language | My repository                                                | Difficulty |
 | ------------------------------------------------------------ | -------------------- | ------------------------------------------------------------ | ---------- |
 | [UCB CS169 : software engineering](http://www.saasbook.info/courses) | Ruby/Javascript      | [Ongoing](https://github.com/PKUFlyingPig/CS169-Software-Engineering) | 🌟🌟🌟🌟       |
 
 Unlike other traditional software engineering course which teaches you the old "plan and document" method, Software as a Service (SaaS) and agile development is today's trend. This great course will guide you into the world of modern software engineering, which is widely used by almost all the big companies like Google, Amazon ... ...
+
+---
 
 | Course Link                                                  | Programming Language | My repository | Difficulty |
 | ------------------------------------------------------------ | -------------------- | ------------- | ---------- |
