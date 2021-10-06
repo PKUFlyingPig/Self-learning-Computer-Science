@@ -10,6 +10,8 @@ All the courses in this repository are developed in MIT, UC Berkeleys, Princeton
 
 Let's self-learning together and get better together !
 
+If you find this repo helpful for you, your 🌟 is the best gift for me ~ 
+
 ## Overview
 
 This guidance is a little bit long and may grow as I learn. Here are the section links. After each section, there is a ↩ which can link you back into Overview.
@@ -414,11 +416,21 @@ The shining part of the course is the labs and projects, which will greatly enha
 
 | Course Link                                                  | Programming Language | My repository                                                | Difficulty |
 | ------------------------------------------------------------ | -------------------- | ------------------------------------------------------------ | ---------- |
-| [CS149 : Parallel Computing](http://cs149.stanford.edu/fall20/) | C/C++                | [Completed](https://github.com/PKUFlyingPig/CS149-parallel-computing) | 🌟🌟🌟🌟🌟      |
+| [Stanford CS149 : Parallel Computing](http://cs149.stanford.edu/fall20/) | C/C++                | [Completed](https://github.com/PKUFlyingPig/CS149-parallel-computing) | 🌟🌟🌟🌟🌟      |
 
 From smart phones, to multi-core CPUs and GPUs, to the world's largest supercomputers and web sites, parallel processing is ubiquitous in modern computing. The goal of this course is to provide a deep understanding of the fundamental principles and engineering trade-offs involved in designing modern parallel computing systems as well as to teach parallel programming techniques necessary to effectively utilize these machines. Because writing good parallel programs requires an understanding of key machine performance characteristics, this course will cover both parallel hardware and software design.
 
 There are five programming assignments in the course. You will learn to analyze parallel program, write a CUDA renderer, use OpenMP to parallel BFS and use Spark to do the page rank.
+
+---
+
+### 7. Database System
+
+| Course Link                                                  | Programming Language | My repository                                      | Difficulty |
+| ------------------------------------------------------------ | -------------------- | -------------------------------------------------- | ---------- |
+| [UCB CS186: Introduction to Database System](https://cs186berkeley.net/sp21/) | Java/SQL/MQL         | [Completed](https://github.com/PKUFlyingPig/CS186) | 🌟🌟🌟🌟🌟      |
+
+How to write SQL queries? What happens after you type in the queries into the SQL command line tool? How to optimize the query? How to design your own database to fit your demand? How to run tons of queries concurrently? How to recover your database from a ... fire? How to parallel your queries? What is NoSQL and how to write quries in the NoSQL database Mongodb? What is MapReduce and Spark? If you are interested in any questions above and if you want to implement a relational database **yourself**, this course is your best choice! Wonderful learning materials and wonderful projects, no need to say more.
 
 [↩](#overview)
 
