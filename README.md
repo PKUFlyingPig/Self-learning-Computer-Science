@@ -2,6 +2,8 @@
 
 [![License](https://img.shields.io/badge/license-MIT%202-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
+**News: 中文版正在建设中，请点击[这里](https://github.com/PKUFlyingPig/pku-cs-self-learning).**
+
 I'm an undergraduate student majored in Computer Science in Peking University. Tired of the boring courses, I began self-learning totally after my fresh year. This repository contains all the resources I used to self-learning. The links below will take you either to another repository which contains my solution for homework and course projects or to the course website where you can get full guidance.
 
 If you feel quite painful to take the courses at unversity. Trust me, there is high possibility that it's not your duty. Computer Science is so interesting and everyone should enjoy it if you have a good teacher to teach you a good course.
@@ -272,7 +274,7 @@ Software part : The author created a new language called Jack. You will write th
 
 Although Nand2Tetris course is great, it is not a university-level course. So to step further, CS61C is your choice.
 
-All the labs and projects and fantastic. In this course, you will learn C programming language and RISC-V assembly language, understand how the computer runs your code, write a MNIST classification neural network in RISC-V, use Logism to build your own CPU to run RISC-V from scratch, and finally, you can write a naive, but quite powerful **numpy** in C to accelerate the matrix manipulation. This is the best architecture course I've ever taken !
+All the labs and projects are fantastic. In this course, you will learn C programming language and RISC-V assembly language, understand how the computer runs your code, write a MNIST classification neural network in RISC-V, use Logism to build your own CPU to run RISC-V from scratch, and finally, you can write a naive, but quite powerful **numpy** in C to accelerate the matrix manipulation. This is the best architecture course I've ever taken !
 
 ---
 
@@ -332,7 +334,7 @@ This course is taught by Andrew Ng (吴恩达). This couse is maths heavy. If yo
 
 In this course, you will learn [Rust](https://www.rust-lang.org/), a magic language with C's speed and other high level language's safety. It aims at empowering everyone to write efficient and safe software.
 
-In this course, you will learn more than mastering a language. Rust's design philosophy will help you program elegantly and safely in other system programming language (e.g. C/C++). Also, the course focused on concurrency in the second half. You will trade off between multi-process/multi-threading and event-driven programming and learn some subtle bugs when using them.
+In this course, you will learn more than mastering a language. Rust's design philosophy will help you program elegantly and safely in other system programming language (e.g. C/C++). Also, the course focused on concurrency in the second half. You will trade off between multi-processing/multi-threading and event-driven programming and learn some subtle bugs when using them.
 
 Personally, I love the "futures in Rust" part best. Future is a very weird concept and I spent two to three days to fully digest it. However, when you finally understand it, you will be amazed by its elegance and use it happily.
 
@@ -367,7 +369,7 @@ This course is graduate-level and very hard. I am trying to find some time to fi
 
 In the fall 2020, the authors of this wonderful book (A Top Down Approach) released his teaching videos online which you can use to supplement your learning. In its labs, you will use wireshark to catch real network packet to understand how each protocol works. 
 
-The stanford course is much harder and you can also find its teaching videos on Youtube or Bilibili. In its labs you will implement the TCP, Network Interface, IP routing and put them together to talk with other peers on the Internet. Sounds cool right? (a sad story: the labs are time-consuming, personally I spent 5-6 hours per lab on average). 
+The Stanford course is much harder and you can also find its teaching videos on Youtube or Bilibili. In its labs you will implement the TCP, Network Interface, IP routing and put them together to talk with other peers on the Internet. Sounds cool right? (a sad story: the labs are time-consuming, personally I spent 5-6 hours per lab on average). 
 
 Here is the picture of what you will implement in CS144 labs :
 
@@ -408,7 +410,7 @@ The shining part of the course is the labs and projects, which will greatly enha
 - Projects : there are three projects in total 
   - Proj1 : Hack into the VM using buffer overflow attacks. You will do real attacks on the providing virtualbox virtual machine.
   - **Proj2 (warning) :** This is a very code-heavy projects. You will implement a secure file sharing system in Go language. [Here is my implementation and design doc.](https://github.com/PKUFlyingPig/CS161-Project2-SecureFileShareSystem)(I spent three whole days to complete this project, 3k lines of code in total)
-  - Proj3 : In this project, you will use what you have learned in web scurity to attack a poorly-implemented website. Unfortunately, this project is only available for the berkeley's students. However, I found a great website [Hacker101](https://ctf.hacker101.com/ctf) which provides similar project.
+  - Proj3 : In this project, you will use what you have learned in web scurity to attack a poorly-implemented website. Unfortunately, this project is only available for the Berkeley's students. However, I found a great website [Hacker101](https://ctf.hacker101.com/ctf) which provides similar project.
 
 ---
 
@@ -430,7 +432,7 @@ There are five programming assignments in the course. You will learn to analyze 
 | ------------------------------------------------------------ | -------------------- | -------------------------------------------------- | ---------- |
 | [UCB CS186: Introduction to Database System](https://cs186berkeley.net/sp21/) | Java/SQL/MQL         | [Completed](https://github.com/PKUFlyingPig/CS186) | 🌟🌟🌟🌟🌟      |
 
-How to write SQL queries? What happens after you type in the queries into the SQL command line tool? How to optimize the query? How to design your own database to fit your demand? How to run tons of queries concurrently? How to recover your database from a ... fire? How to parallel your queries? What is NoSQL and how to write quries in the NoSQL database Mongodb? What is MapReduce and Spark? If you are interested in any questions above and if you want to implement a relational database **yourself**, this course is your best choice! Wonderful learning materials and wonderful projects, no need to say more.
+How to write SQL queries? What happens after you type in the queries into the SQL command line tool? How to optimize the query? How to design your own database to fit your demand? How to run tons of queries concurrently? How to recover your database from a ... fire? How to parallel your queries? What is NoSQL and how to write quries in the NoSQL database Mongodb? What is MapReduce and Spark? If you are interested in any questions above or if you want to implement a relational database **yourself**, this course is your best choice! Wonderful learning materials and wonderful projects, no need to say more.
 
 [↩](#overview)
 
