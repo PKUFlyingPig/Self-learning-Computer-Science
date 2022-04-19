@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT%202-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
-**News: 中文版正在建设中，请点击[这里](https://github.com/PKUFlyingPig/cs-self-learning).**
+**News: 中文版已发布，请点击[这里](https://github.com/PKUFlyingPig/cs-self-learning).**
 
 I'm an undergraduate student majored in Computer Science in Peking University. Tired of the boring courses, I began self-learning totally after my fresh year. This repository contains all the resources I used to self-learning. The links below will take you either to another repository which contains my solution for homework and course projects or to the course website where you can get full guidance.
 
