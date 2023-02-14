@@ -48,7 +48,9 @@ Some people asked me how can I find these wonderful courses. Here are some great
 
 [UC berkeley CS Course List](https://www2.eecs.berkeley.edu/Courses/CS/?_ga=2.49145060.370293363.1598336094-476512950.1598336094): The computer science courses list for UC berkeley's undergraduate students.
 
-[MIT CS Course List](http://student.mit.edu/catalog/m6a.html): The computer science courses list for MIT students.	
+[MIT CS Course List](http://student.mit.edu/catalog/m6a.html): The computer science courses list for MIT students.
+
+[Computer Science Roadmap](https://roadmap.sh/computer-science): A complete guide to Computer Science.
 
 [↩](#overview)																												
 
